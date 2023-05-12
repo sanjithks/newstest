@@ -1,5 +1,5 @@
 ---
-layout: layout/post.njk
+layout: layouts/post.njk
 title: Jaiswal Smashes fastest IPL half-century
 description: Yashasvi Jaiswal smashes fastest half-century in IPL
 date: '2023-05-12'
