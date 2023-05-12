@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Another largest for Dubai
+title: Another Record for Dubai
 description: World's Largest Residential Building to be Built in Dubai
 date: '2023-05-12'
 featuredImage: /images/uploads/habtoor.jpg
